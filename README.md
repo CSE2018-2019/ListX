@@ -5,5 +5,5 @@
 ### Obfuscating treaty was changed into AES128_MD5.
 ## 1/13/2019    Officially run the V-SSR 
 ### 3 nodes in Tokyo was available.
-## 1/31/2019    Fix #Canot access Pixiv#   
-## 1/31/2019    Fix #Canot access Google Scholar#  
+## 1/31/2019    Fix #Can not access Pixiv#   
+## 1/31/2019    Fix #Can not access Google Scholar#  
