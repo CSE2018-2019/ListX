@@ -2,7 +2,7 @@
 ## 01/07/2019    Early test #1 (Failed) 
 ### IP was blocked many times because fake tls data packs were detected and using non-443 port was also an important factor
 ## 01/09/2019    Early test #2 (Successful)  
-### Obfuscating treaty was changed into AES128_MD5
+### Obfuscating protocal was changed into AES128_MD5
 ## 01/13/2019    Officially running
 ### 3 ultra-fast nodes in Tokyo was available
 ## 01/16/2019    Fix issue #Can not access Pixiv#   
