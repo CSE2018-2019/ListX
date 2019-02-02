@@ -10,4 +10,4 @@
 ## 01/31/2019    Fix issue #Can not access Google Scholar#  
 ### 54.xxx.xxx.xxx subnet was blocked by Google Scholar and it was accessible after changing subnet into 18.xxx.xxx.xxx
 ## 02/01/2019    TCP BBR deployment
-### Improved connection speed to 27 MiB/s
+### Improved connection speed to 27 MB/s
