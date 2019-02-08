@@ -5,10 +5,10 @@
 ### Obfuscating protocol was changed into AES128_MD5
 ## 01/13/2019    Officially running
 ### 3 ultra-fast nodes in Tokyo was available
-## 01/16/2019    Fix issue # Can not access Pixiv #   
+## 01/16/2019    Fix issue #Can not access Pixiv#   
 ### 52.xxx.xxx.xxx subnet was blocked by Pixiv and Pixiv was accessible after changing subnet into 54.xxx.xxx.xxx
-## 01/31/2019    Fix issue # Can not access Google Scholar #  
+## 01/31/2019    Fix issue #Can not access Google Scholar#  
 ### 54.xxx.xxx.xxx subnet was blocked by Google Scholar and it was accessible after changing subnet into 18.xxx.xxx.xxx
 ## 02/01/2019    TCP BBR+ deployment
 ### Improved connection speed of an individual node to 27 MB/s
-## 02/05/2019    Issue # Connection instability #
+## 02/05/2019    Issue #Connection instability#
