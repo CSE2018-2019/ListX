@@ -11,4 +11,4 @@
 ### 54.xxx.xxx.xxx subnet was blocked by Google Scholar and it was accessible after changing subnet into 18.xxx.xxx.xxx
 ## 02/01/2019    TCP BBR+ deployment
 ### Improved connection speed of an individual node to 27 MB/s
-## 02/05/2019    Connection instability
+## 02/05/2019    Issue #Connection instability#
